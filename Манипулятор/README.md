@@ -2,16 +2,16 @@
 (3 переносные, 1 ориентирующая)
 
 Творческий коллектив:
-- Самарин А.С. a.k.a. Uiopio
-- Паньков И.С. a.k.a. Clever0ne
-- Ляпцев И.А. a.k.a. ilyalyai
-- Жернаков А.А. a.k.a. zhernakov14
-- Козлов Д.А. a.k.a. dekoden
-- Коновалов В.А. a.k.a. vladkonovalov
-- Кочурин Р.П. a.k.a. Roman5D
-- Шкабара Я.А. a.k.a. Anferhe
-- Якименко Г.К. a.k.a. ImAllergicToFish
-- Сомов А.С. a.k.a. Fuxtrel
+- Самарин А.С. `a.k.a. Uiopio`
+- Паньков И.С. `a.k.a. Clever0ne`
+- Ляпцев И.А. `a.k.a. ilyalyai`
+- Жернаков А.А. `a.k.a. zhernakov14`
+- Козлов Д.А. `a.k.a. dekoden`
+- Коновалов В.А. `a.k.a. vladkonovalov`
+- Кочурин Р.П. `a.k.a. Roman5D`
+- Шкабара Я.А. `a.k.a. Anferhe`
+- Якименко Г.К. `a.k.a. ImAllergicToFish`
+- Сомов А.С. `a.k.a. Fuxtrel`
 
 Характеристики:
 ```cpp
@@ -20,22 +20,22 @@
 
 Структура директории:
 - assembly — общая сборка всех звеньев;
-- link 0 (base) — звено 0, крепится к мобильной платформе (автор — Uiopio);
+- link 0 (base) — звено 0, крепится к мобильной платформе (автор — `Uiopio`);
   + assembly — сборка звена 0;
-- link 1 — звено 1 (автор — zhernakov14);
+- link 1 — звено 1 (автор — `zhernakov14`);
   + assembly — сборка звена 1;
-- link 2 — звено 2 (авторы — Clever0ne, ImAllergicToFish);
+- link 2 — звено 2 (авторы — `Clever0ne`, `ImAllergicToFish`);
   + assembly — сборка звена 2;
   + part_1 — присоединительный узел звена 2 с цанговым зажимом;
     * assembly — сборка присоединительного узла звена 2;
   + part_2 — подшипниковый узел звена 2 с сервоприводом и цанговым зажимом;
     * assembly — сборка подшипникого узла звена 2;
-- link 3 — звено 3 с фланцем для крепления схвата (авторы — Anferhe, ImAllergicToFish);
+- link 3 — звено 3 с фланцем для крепления схвата (авторы — `Anferhe`, `ImAllergicToFish`);
   + assembly — сборка звена 3;
   + part_1 — присоединительный узел звена 3 с цанговым зажимом;
     * assembly — сборка присоединительного узла звена 3;
   + part_2 — подшипниковый узел звена 3 с сервоприводом и цанговым зажимом;
     * assembly — сборка подшипникого узла звена 3;
-- report — пояснительная записка к проекту (авторы — dekoden, ilyalyai)
-- drawings — чертежи к проекту (авторы — Fuxtrel, vladkonovalov, Roman5D)
+- report — пояснительная записка к проекту (авторы — `dekoden`, `ilyalyai`);
+- drawings — чертежи к проекту (авторы — `Fuxtrel`, `vladkonovalov`, `Roman5D`);
 
