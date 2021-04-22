@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='2'>
+        <properties>
+            <Name value='&#1058;&#1086;&#1095;&#1082;&#1072; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103;3@Cable_1-&#1057;&#1073;&#1086;&#1088;&#1082;&#1072; &#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; 2-003.SLDASM:&#1058;&#1086;&#1095;&#1082;&#1072; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103;4@Cable_1-&#1057;&#1073;&#1086;&#1088;&#1082;&#1072; &#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; 2-003.SLDASM'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.074944'/>
+            <AdditionalLength value='0.074944'/>
+            <FromLocation value='0.046270,0.016700,-0.107000'/>
+            <ToLocation value='0.023932,0.016000,-0.086541'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='&#1058;&#1086;&#1095;&#1082;&#1072; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103;5@Cable_1-&#1057;&#1073;&#1086;&#1088;&#1082;&#1072; &#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; 2-003.SLDASM:&#1058;&#1086;&#1095;&#1082;&#1072; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103;7@Cable_1-&#1057;&#1073;&#1086;&#1088;&#1082;&#1072; &#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; 2-003.SLDASM'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.070405'/>
+            <AdditionalLength value='0.070405'/>
+            <FromLocation value='0.023932,0.016000,-0.089081'/>
+            <ToLocation value='0.043730,0.016700,-0.107000'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='9'>
+        <properties>
+            <Name value='&#1058;&#1086;&#1095;&#1082;&#1072; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103;1@Cable_1-&#1057;&#1073;&#1086;&#1088;&#1082;&#1072; &#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; 2-003.SLDASM:&#1058;&#1086;&#1095;&#1082;&#1072; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103;2@Cable_1-&#1057;&#1073;&#1086;&#1088;&#1082;&#1072; &#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; 2-003.SLDASM'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.068555'/>
+            <AdditionalLength value='0.068555'/>
+            <FromLocation value='0.048810,0.016700,-0.107000'/>
+            <ToLocation value='0.023932,0.016000,-0.084001'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='10'>
+        <properties>
+            <Name value='&#1058;&#1086;&#1095;&#1082;&#1072; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103;6@Cable_1-&#1057;&#1073;&#1086;&#1088;&#1082;&#1072; &#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; 2-003.SLDASM:&#1058;&#1086;&#1095;&#1082;&#1072; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103;8@Cable_1-&#1057;&#1073;&#1086;&#1088;&#1082;&#1072; &#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; 2-003.SLDASM'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.062087'/>
+            <AdditionalLength value='0.062087'/>
+            <FromLocation value='0.023932,0.016000,-0.091621'/>
+            <ToLocation value='0.041190,0.016700,-0.107000'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
